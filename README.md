@@ -5,7 +5,7 @@ I am a 2024 graduate of the Faculty of Computers and Artificial Intelligence at 
 
 ### Experience
 - **Private Teaching (HSB Sessions Private)**: Taught  subjects like Software and Security to students, helping them understand core concepts and succeed in their studies.
-- **Graduation Project**: Worked on a sports video summarization project utilizing techniques such as YOLOv8, ResNet, OCR, and audio analysis to generate football match highlights.
+- **Graduation Project**: Worked on a sports video summarization project utilizing techniques such as YOLOv8, ResNet, OCR, and audio analysis to generate football match highlights and create football statistics page.
 
 ### Skills
 - **Programming Languages**: Python, C#, Java
