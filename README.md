@@ -4,7 +4,7 @@
 I am a 2024 graduate of the Faculty of Computers and Artificial Intelligence at Cairo University, with a **Good** grade. My primary interests lie in **Machine Learning**, **Software Development**, and **Artificial Intelligence**. I have a passion for creating practical solutions through technology, and I enjoy tackling challenging projects in the areas of computer vision, audio analysis, and video summarization.
 
 ### Experience
-- **Private Teaching (HSB Sessions Private)**: Taught  subjects like Software and Security to students, helping them understand core concepts and succeed in their studies.
+- **Private Teaching (Sessions Private)**: Taught  subjects like Software and Security to students, helping them understand core concepts and succeed in their studies.
 - **Graduation Project**: Worked on a sports video summarization project utilizing techniques such as YOLOv8, ResNet, OCR, and audio analysis to generate football match highlights and create football statistics page.
 
 ### Skills
