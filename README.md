@@ -21,4 +21,4 @@ I am continuously expanding my expertise in **.NET**, **Data Structures**, **Alg
 ## Contact
 - **GitHub**: [https://github.com/amfathy](https://github.com/amfathy)
 - **Email**: [ahmedeltaify.sw@gmail.com](mailto:ahmedeltaify.sw@gmail.com)
-- **YouTube Session Explanation**: [Session Video](https://www.youtube.com/watch?v=91kaFcoGgIs&t=1678s)
+- **YouTube**: [Sessions](https://www.youtube.com/watch?v=91kaFcoGgIs&t=1678s)
