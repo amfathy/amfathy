@@ -3,13 +3,13 @@
 </div>
 <div align="center">
   <div id="badges">
-    <a href="http://linkedin.com/in/ahmed-eltaify-552318328">
+    <a href="https://linkedin.com/in/yourprofile">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="http://leetcode.com/amfathy">
+    <a href="https://leetcode.com/amfathy">
       <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
     </a>
-    <a href="http://github.com/amfathy">
+    <a href="https://github.com/amfathy">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
@@ -22,22 +22,46 @@
   </h1>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+## About Me
+I'm a passionate **Back-End Developer** specializing in **Node.js** with a strong foundation in **software engineering** and **database management**. I enjoy building scalable applications, optimizing database performance, and implementing clean, maintainable code following best practices.
 
-- :telescope: I’m a **Fresh Backend Developer** working with Node.js, Express.js, and MongoDB.
-- :seedling: Exploring **MEAN Stack Development** and backend optimization techniques.
-- :zap: I enjoy **solving problems on LeetCode** and keeping up with the latest tech trends.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ahmed_Eltaify-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/ahmed-eltaify-552318328)
+## :hammer_and_wrench: Technical Skills
+### Programming Languages
+- JavaScript (ES6+), TypeScript, C++, C#, Python
+
+### Back-End Technologies
+- Node.js, Express.js, NestJS
+
+### Databases
+- SQL Server, MySQL, PostgreSQL, MongoDB
+
+### API Development
+- RESTful APIs, GraphQL
+- Authentication & Security: JWT, OAuth, Passport.js
+- Validation: ZOD, JOI
+
+### Software Development Principles
+- SOLID Principles, Clean Code, Repository Pattern, Design Patterns
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+
+### Tools & DevOps
+- Git, GitHub, Docker, Postman
+- Unit Testing (Jest, Mocha, Chai)
+- CI/CD, Cloud Deployment
+
+## :telescope: What I'm Working On
+- **E-commerce API Dashboard** - Managing e-commerce analytics and orders
+- **Football Statistics Page** - Data visualization for football matches
+- **Hospital Management System** - Scheduling surgeries & doctor assignments
+
+## :seedling: Exploring
+- **MEAN Stack Development** and backend optimization techniques.
+- **Solving problems on LeetCode** and keeping up with the latest tech trends.
+
+## :mailbox: Let's Connect
+- **GitHub**: [github.com/amfathy](https://github.com/amfathy)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ### :fire: My Stats :
 <div align="center">
