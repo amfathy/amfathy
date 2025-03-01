@@ -30,18 +30,18 @@ I'm a passionate **Back-End Developer** specializing in **Node.js** with a stron
 - JavaScript (ES6+), TypeScript, C++, C#, Python
 
 ### Back-End Technologies
-- Node.js, Express.js, NestJS
+- Node.js, Express.js
 
 ### Databases
 - SQL Server, MySQL, PostgreSQL, MongoDB
 
 ### API Development
-- RESTful APIs, GraphQL
+- RESTful APIs
 - Authentication & Security: JWT, OAuth, Passport.js
 - Validation: ZOD, JOI
 
 ### Software Development Principles
-- SOLID Principles, Clean Code, Repository Pattern, Design Patterns
+- SOLID Principles, Clean Code, Design Patterns
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 
@@ -53,10 +53,9 @@ I'm a passionate **Back-End Developer** specializing in **Node.js** with a stron
 ## :telescope: What I'm Working On
 - **E-commerce API Dashboard** - Managing e-commerce analytics and orders
 - **Football Statistics Page** - Data visualization for football matches
-- **Hospital Management System** - Scheduling surgeries & doctor assignments
 
 ## :seedling: Exploring
-- **MEAN Stack Development** and backend optimization techniques.
+- **MEARN Stack Development** and backend optimization techniques.
 - **Solving problems on LeetCode** and keeping up with the latest tech trends.
 
 ## :mailbox: Let's Connect
