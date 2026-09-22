@@ -80,15 +80,3 @@ I'm a passionate **Back-End Developer** specializing in **Node.js** with a stron
 </table>
 </div>
 
-### :fire: Featured Projects :
-<table border="0">
-<tr>
-<td>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amfathy&repo=Football-statistics-page&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/amfathy/Football-statistics-page)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amfathy&repo=E-commerce-NodeJs&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/amfathy/E-commerce-NodeJs)
-
-</td>
-<td>
-
