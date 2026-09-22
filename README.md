@@ -92,10 +92,3 @@ I'm a passionate **Back-End Developer** specializing in **Node.js** with a stron
 </td>
 <td>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amfathy&repo=Practices-on-HTML-CSS&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/amfathy/Practices-on-HTML-CSS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amfathy&repo=Gambha-Calculator&show_owner=false&theme=solarized-light&hide_border=true)](https://github.com/amfathy/Gambha-Calculator)
-
-</td>
-</tr>
-</table>
