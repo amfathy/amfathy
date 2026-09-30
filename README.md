@@ -13,8 +13,6 @@
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=amfathy&style=flat-square&color=blue" alt="Profile Views"/>
-
   <h1>
     Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
