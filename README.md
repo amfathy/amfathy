@@ -25,10 +25,10 @@
 ## About Me
 I'm a **.NET Back-End Developer** currently training at **GBG**, with a strong foundation in **software engineering** and **database management**. I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also comfortable working with **Node.js** from my earlier projects, which gives me a broader view of back-end development across ecosystems.
 
-## :briefcase: Currently
+## : Currently
 - **.NET Trainee @ GBG**: learning and building production-style back-end solutions with C# and ASP.NET Core
 
-## :hammer_and_wrench: Technical Skills
+## : Technical Skills
 ### Primary Stack (.NET)
 - C#, .NET / ASP.NET Core (Web API)
 - Entity Framework Core, LINQ, Dapper
@@ -57,21 +57,21 @@ I'm a **.NET Back-End Developer** currently training at **GBG**, with a strong f
 - Unit Testing: xUnit, NUnit, Moq (.NET) and Jest, Mocha, Chai (Node.js)
 - CI/CD, Cloud Deployment
 
-## :telescope: What I'm Working On
+## : What I'm Working On
 - **E-commerce API Dashboard**: managing e-commerce analytics and orders
 - **Football Statistics Page**: data visualization for football matches
 - **Training projects @ GBG**: building and sharpening my .NET back-end skills
 
-## :seedling: Exploring
+## : Exploring
 - **Advanced ASP.NET Core**: Clean Architecture, CQRS, and performance optimization
 - **Cloud & DevOps** for .NET applications
 - **Solving problems on LeetCode** and keeping up with the latest tech trends
 
-## :mailbox: Let's Connect
+## : Let's Connect
 - **GitHub**: [github.com/amfathy](https://github.com/amfathy)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
-### :fire: My Stats :
+### : My Stats :
 <div align="center">
 <table>
 <tr>
