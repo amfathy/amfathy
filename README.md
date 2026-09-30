@@ -14,7 +14,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=amfathy&style=flat-square&color=blue" alt="Profile Views"/>
-  
+
   <h1>
     Hey there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -23,40 +23,49 @@
 </div>
 
 ## About Me
-I'm a passionate **Back-End Developer** specializing in **Node.js** with a strong foundation in **software engineering** and **database management**. I enjoy building scalable applications, optimizing database performance, and implementing clean, maintainable code following best practices.
+I'm a **.NET Back-End Developer** currently training at **GBG**, with a strong foundation in **software engineering** and **database management**. I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also comfortable working with **Node.js** from my earlier projects, which gives me a broader view of back-end development across ecosystems.
+
+## :briefcase: Currently
+- **.NET Trainee @ GBG**: learning and building production-style back-end solutions with C# and ASP.NET Core
 
 ## :hammer_and_wrench: Technical Skills
-### Programming Languages
-- JavaScript (ES6+), TypeScript, C++, C#, Python
+### Primary Stack (.NET)
+- C#, .NET / ASP.NET Core (Web API)
+- Entity Framework Core, LINQ, Dapper
+- SQL Server
 
-### Back-End Technologies
-- Node.js, Express.js
+### Also Familiar With
+- JavaScript (ES6+), TypeScript, Node.js, Express.js
+- C++, Python
 
 ### Databases
 - SQL Server, MySQL, PostgreSQL, MongoDB
 
 ### API Development
 - RESTful APIs
-- Authentication & Security: JWT, OAuth, Passport.js
-- Validation: ZOD, JOI
+- Authentication & Security: JWT, OAuth, ASP.NET Core Identity, Passport.js
+- Validation: FluentValidation (.NET), ZOD / JOI (Node.js)
 
 ### Software Development Principles
 - SOLID Principles, Clean Code, Design Patterns
+- Clean Architecture, Repository & Unit of Work patterns
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 
 ### Tools & DevOps
-- Git, GitHub, Docker, Postman
-- Unit Testing (Jest, Mocha, Chai)
+- Git, GitHub, Docker, Postman, Swagger / OpenAPI
+- Unit Testing: xUnit, NUnit, Moq (.NET) and Jest, Mocha, Chai (Node.js)
 - CI/CD, Cloud Deployment
 
 ## :telescope: What I'm Working On
-- **E-commerce API Dashboard** - Managing e-commerce analytics and orders
-- **Football Statistics Page** - Data visualization for football matches
+- **E-commerce API Dashboard**: managing e-commerce analytics and orders
+- **Football Statistics Page**: data visualization for football matches
+- **Training projects @ GBG**: building and sharpening my .NET back-end skills
 
 ## :seedling: Exploring
-- **MEARN Stack Development** and backend optimization techniques.
-- **Solving problems on LeetCode** and keeping up with the latest tech trends.
+- **Advanced ASP.NET Core**: Clean Architecture, CQRS, and performance optimization
+- **Cloud & DevOps** for .NET applications
+- **Solving problems on LeetCode** and keeping up with the latest tech trends
 
 ## :mailbox: Let's Connect
 - **GitHub**: [github.com/amfathy](https://github.com/amfathy)
@@ -79,4 +88,3 @@ I'm a passionate **Back-End Developer** specializing in **Node.js** with a stron
 </tr>
 </table>
 </div>
-
