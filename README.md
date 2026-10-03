@@ -55,10 +55,11 @@ I'm a **.NET Back-End Developer** currently training at **GBG**, with a strong f
 - Unit Testing: xUnit, NUnit, Moq (.NET) and Jest, Mocha, Chai (Node.js)
 - CI/CD, Cloud Deployment
 
-## What I'm Working On
-- **E-commerce API Dashboard**: managing e-commerce analytics and orders
-- **Football Statistics Page**: data visualization for football matches
-- **Training projects @ GBG**: building and sharpening my .NET back-end skills
+## Projects
+- **Daily-task app**: web application developed through my military service (Nodejs-React)
+- **E-commerce API Dashboard**: managing e-commerce analytics and orders  (Nodejs)
+- **Football Statistics Page Grade proj**: data visualization for football matches (Python & Deep learning) 
+- **Training projects @GBG**: building and sharpening my .NET back-end skills
 
 ## Exploring
 - **Advanced ASP.NET Core**: Clean Architecture, CQRS, and performance optimization
