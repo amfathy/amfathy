@@ -32,42 +32,10 @@ I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also c
 
 ---
 
-##  Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,html,css&theme=dark" alt="languages"/>
-</p>
-
-### Back-End & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&theme=dark" alt="backend"/>
-</p>
-
-### Front-End
-
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,ts&theme=dark" alt="frontend"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="databases"/>
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,visualstudio,vscode&theme=dark" alt="tools"/>
-</p>
-
-<details>
-<summary><b>More details (click to expand)</b></summary>
-
+## Tech Stack
+ <div align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,ts,python,html,css,react,bootstrap,nodejs,express,mongodb,mysql,postgres,git,github,docker,postman,visualstudio&theme=dark&perline=20" height="32" alt="tech stack"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="24" alt="SQL Server"/> </div> 
+Focus: ASP.NET Core Web API · EF Core · LINQ · Dapper · SQL Server Practices: SOLID · Clean Architecture · Repository/Unit of Work · JWT/Identity · xUnit/Moq · Swagger
+ 
 <br/>
 
 | Area | Technologies |
