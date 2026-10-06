@@ -85,17 +85,6 @@ I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also c
 
 ---
 
-##  Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Daily-Task App** | Web app built during my military service | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **E-commerce API Dashboard** | Manage e-commerce analytics and orders | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Football Statistics Page** | Graduation project: data visualization for football matches | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **GBG Training Projects** | Building and sharpening my .NET back-end skills | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-
----
-
 ##  Exploring
 
 -  **Advanced ASP.NET Core**: Clean Architecture, CQRS, performance optimization
@@ -108,7 +97,7 @@ I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-m-fathy-552318328/)
 
 <br/>
 
