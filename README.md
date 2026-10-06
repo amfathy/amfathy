@@ -34,7 +34,9 @@ I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also c
 
 ## Tech Stack
  <div align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,ts,python,html,css,react,bootstrap,nodejs,express,mongodb,mysql,postgres,git,github,docker,postman,visualstudio&theme=dark&perline=20" height="32" alt="tech stack"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="24" alt="SQL Server"/> </div> 
-Focus: ASP.NET Core Web API · EF Core · LINQ · Dapper · SQL Server Practices: SOLID · Clean Architecture · Repository/Unit of Work · JWT/Identity · xUnit/Moq · Swagger
+<br/>
+<br/>
+Focus: ASP.NET Core Web API · EF Core · LINQ · Dapper · SQL Server Practices: SOLID · <br/> Clean Architecture · Repository/Unit of Work · JWT/Identity · xUnit/Moq · Swagger
  
 <br/>
 
@@ -45,7 +47,7 @@ Focus: ASP.NET Core Web API · EF Core · LINQ · Dapper · SQL Server Practices
 | **API development** | RESTful APIs, Swagger / OpenAPI |
 | **Auth & security** | JWT, OAuth, ASP.NET Core Identity, Passport.js |
 | **Validation** | FluentValidation (.NET), Zod / Joi (Node.js) |
-| **Testing** | xUnit, NUnit, Moq (.NET), Jest, Mocha, Chai (Node.js) |
+| **Testing** |  Moq (.NET), Jest (Node.js) |
 | **Principles** | SOLID, Clean Code, Design Patterns, Clean Architecture, Repository & Unit of Work, OOP, DSA |
 | **DevOps** | CI/CD, Docker, Cloud deployment |
 
