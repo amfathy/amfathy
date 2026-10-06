@@ -49,7 +49,7 @@ I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also c
 ### Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,ts&theme=dark" alt="frontend"/>
 </p>
 
 ### Databases
