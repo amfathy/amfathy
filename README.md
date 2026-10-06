@@ -35,10 +35,7 @@ I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also c
 ## Tech Stack
  <div align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,ts,python,html,css,react,bootstrap,nodejs,express,mongodb,mysql,postgres,git,github,docker,postman,visualstudio&theme=dark&perline=20" height="32" alt="tech stack"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="24" alt="SQL Server"/> </div> 
 <br/>
-<br/>
-Focus: ASP.NET Core Web API · EF Core · LINQ · Dapper · SQL Server Practices: SOLID · <br/> Clean Architecture · Repository/Unit of Work · JWT/Identity · xUnit/Moq · Swagger
- 
-<br/>
+
 
 | Area | Technologies |
 |---|---|
