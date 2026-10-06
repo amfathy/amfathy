@@ -97,7 +97,7 @@ I build scalable, maintainable APIs with **C# and ASP.NET Core**, and I'm also c
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ahmed-m-fathy-552318328/])
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-m-fathy-552318328/)
 
 <br/>
 
